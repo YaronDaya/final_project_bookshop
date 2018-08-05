@@ -1,0 +1,8 @@
+﻿  bookshopapp.cpp
+c:\users\yaron daya\desktop\finalbookshop\bookshopapp\bookshopapp\bookshopapp.cpp(38): warning C4101: 'stmt': unreferenced local variable
+  Generating code
+  1 of 162 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bookshopapp.vcxproj -> C:\Users\yaron daya\Desktop\FinalBookShop\bookshopapp\x64\Release\bookshopapp.exe
